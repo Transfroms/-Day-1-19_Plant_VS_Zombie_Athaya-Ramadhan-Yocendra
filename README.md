@@ -14,7 +14,7 @@ Repository ini dibuat dengan tujuan :
 5. Menjadi bukti partisipasi dalam kegiatan Proyek Workshop.
 
 Rangkuman Materi
-Pada kegiatan workshop Day 1, materi yang disampaikan berfokus pada pemanfaatan kecerdasan buatan (AI) dalam pengembangan aplikasi serta penggunaan Git dan GitHub untuk mengelola perubahan dan mendukung kolaborasi dalam suatu proyek.
+  Pada kegiatan workshop Day 1, materi yang disampaikan berfokus pada pemanfaatan kecerdasan buatan (AI) dalam pengembangan aplikasi serta penggunaan Git dan GitHub untuk mengelola perubahan dan mendukung kolaborasi dalam suatu proyek.
 
 => Prompt Engineering
   Prompt Engineering merupakan cara menyusun instruksi atau perintah kepada AI agar menghasilkan jawaban yang lebih tepat, relevan, dan sesuai dengan kebutuhan pengguna.
