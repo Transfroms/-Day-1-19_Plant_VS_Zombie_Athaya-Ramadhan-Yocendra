@@ -2,12 +2,12 @@ Nama Lengkap : Athaya Ramadhan Yocendra
 
 Kegiatan : Tugas Proyek Workshop DAY 1
 
-Repository
+=> Repository
 
   Repository ini digunakan sebagai wadah untuk mengumpulkan dan menyimpan berbagai dokumentasi selama kegiatan Proyek Workshop. 
 Isinya mencakup ringkasan materi, hasil pembelajaran, wawasan baru, serta pengalaman yang diperoleh selama mengikuti rangkaian workshop.
 
-Tujuan Repository
+=> Tujuan Repository
 
 Repository ini dibuat dengan tujuan :
 1. Mendokumentasikan seluruh kegiatan selama workshop.
@@ -16,7 +16,7 @@ Repository ini dibuat dengan tujuan :
 4. Menjadi arsip pembelajaran yang dapat dipelajari kembali.
 5. Menjadi bukti partisipasi dalam kegiatan Proyek Workshop.
 
-Rangkuman Materi
+=> Rangkuman Materi
 
   Pada kegiatan workshop Day 1, materi yang disampaikan berfokus pada pemanfaatan kecerdasan buatan (AI) dalam pengembangan aplikasi serta penggunaan Git dan GitHub untuk mengelola perubahan dan mendukung kolaborasi dalam suatu proyek.
 
