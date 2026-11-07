@@ -1,11 +1,14 @@
 Nama Lengkap : Athaya Ramadhan Yocendra
+
 Kegiatan : Tugas Proyek Workshop DAY 1
 
 Repository
+
   Repository ini digunakan sebagai wadah untuk mengumpulkan dan menyimpan berbagai dokumentasi selama kegiatan Proyek Workshop. 
 Isinya mencakup ringkasan materi, hasil pembelajaran, wawasan baru, serta pengalaman yang diperoleh selama mengikuti rangkaian workshop.
 
 Tujuan Repository
+
 Repository ini dibuat dengan tujuan :
 1. Mendokumentasikan seluruh kegiatan selama workshop.
 2. Menyimpan rangkuman materi yang telah disampaikan.
@@ -14,9 +17,11 @@ Repository ini dibuat dengan tujuan :
 5. Menjadi bukti partisipasi dalam kegiatan Proyek Workshop.
 
 Rangkuman Materi
+
   Pada kegiatan workshop Day 1, materi yang disampaikan berfokus pada pemanfaatan kecerdasan buatan (AI) dalam pengembangan aplikasi serta penggunaan Git dan GitHub untuk mengelola perubahan dan mendukung kolaborasi dalam suatu proyek.
 
 => Prompt Engineering
+
   Prompt Engineering merupakan cara menyusun instruksi atau perintah kepada AI agar menghasilkan jawaban yang lebih tepat, relevan, dan sesuai dengan kebutuhan pengguna.
 Dalam menyusun prompt yang baik, terdapat empat komponen utama yang perlu diperhatikan, yaitu:
 - Role : Menentukan peran yang harus dijalankan oleh AI.
@@ -26,6 +31,7 @@ Dalam menyusun prompt yang baik, terdapat empat komponen utama yang perlu diperh
 Pemberian konteks dan instruksi yang jelas dapat membantu AI menghasilkan jawaban yang lebih sesuai. Prompt Engineering juga memiliki beberapa manfaat, seperti meningkatkan performa AI, mengurangi respons yang bias atau menyinggung, meningkatkan kontrol terhadap hasil, serta memberikan pengalaman penggunaan yang lebih baik.
 
 => Pengenalan Git dan GitHub
+
   Git merupakan sistem version control yang digunakan untuk mencatat dan mengelola setiap perubahan pada file dalam suatu proyek. 
 Dengan Git, pengguna dapat mengetahui perubahan yang dilakukan, waktu perubahan, serta pihak yang melakukannya.
 Sementara itu, GitHub merupakan platform berbasis web yang digunakan untuk menyimpan repository Git secara online dan mempermudah kolaborasi antaranggota tim.
@@ -37,6 +43,7 @@ Beberapa konsep dasar dalam Git yang dipelajari meliputi:
 - Version Control : Proses pengelolaan dan pelacakan perubahan pada proyek.
 
 => Git Workflow dan Perintah Dasar
+
   Dalam penggunaan Git, terdapat tiga bagian penting, yaitu Working Directory sebagai tempat mengerjakan atau mengubah file, 
 Staging Area sebagai tempat mempersiapkan perubahan yang akan disimpan, dan Git Directory sebagai tempat Git menyimpan informasi serta riwayat proyek.
 Beberapa perintah dasar Git yang diperkenalkan selama workshop antara lain:
@@ -49,17 +56,20 @@ Beberapa perintah dasar Git yang diperkenalkan selama workshop antara lain:
 - git clone <url> – Menyalin repository dari GitHub ke komputer lokal.
 
 => Persiapan dan Konfigurasi Tools
+
   Workshop juga membahas persiapan perangkat lunak yang dibutuhkan untuk memulai pengembangan proyek, yaitu Git dan Visual Studio Code. 
 Peserta diperkenalkan dengan cara menginstal Git, melakukan konfigurasi identitas pengguna menggunakan username dan email, serta memeriksa instalasi melalui terminal.
 Selain itu, dijelaskan pula penggunaan SSH Key untuk menghubungkan komputer dengan GitHub sehingga proses autentikasi dapat dilakukan dengan lebih praktis.
 
 => Praktik Pengembangan Proyek
+
   Pada bagian praktik, peserta diarahkan untuk membuat aplikasi sederhana berupa Student Task Planner. 
 Proses pengerjaan dimulai dengan menggunakan platform AI seperti ChatGPT atau Claude untuk membantu menghasilkan kode aplikasi berdasarkan prompt yang telah disusun.
 Setelah aplikasi dibuat, proyek dimasukkan ke dalam Git, kemudian perubahan disimpan menggunakan commit dan dikirim ke GitHub melalui push. 
 Apabila terdapat perubahan pada aplikasi, proses commit dan push dilakukan kembali agar repository selalu memiliki dokumentasi perkembangan proyek.
 
 => Poin-Poin Penting dan Pengetahuan Baru
+
   Beberapa hal penting dan pengetahuan baru yang diperoleh oleh saya selama workshop Day 1 antara lain:
 1. Memahami bahwa kualitas hasil AI sangat dipengaruhi oleh kejelasan instruksi dan konteks yang diberikan.
 2. Mengetahui empat komponen utama dalam menyusun prompt, yaitu Role, Task, Context, dan Format.
@@ -72,6 +82,7 @@ Apabila terdapat perubahan pada aplikasi, proses commit dan push dilakukan kemba
 9. Mengetahui bagaimana AI dapat dimanfaatkan untuk membantu proses pembuatan aplikasi sederhana.
 
 => Pendapat Pribadi tentang Day 1 Proyek Workshop
+
   Menurut saya, kegiatan Day 1 Proyek Workshop memberikan banyak pengetahuan baru, terutama mengenai pemanfaatan AI dalam proses pengembangan aplikasi serta penggunaan Git dan GitHub. 
 Materi yang disampaikan cukup bermanfaat karena memberikan pemahaman mengenai bagaimana sebuah proyek dapat dibuat, dikelola, dan dikembangkan secara bertahap.
 Hal yang cukup menarik bagi saya adalah penggunaan Prompt Engineering untuk membantu AI menghasilkan kode sesuai kebutuhan. 
